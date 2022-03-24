@@ -1,0 +1,5 @@
+# A collection of Git references
+
+I really like this section in the Git eBook.
+https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified
+It explains the difference between `git reset` and `git checkout` very nicely.
