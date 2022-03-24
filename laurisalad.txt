@@ -1,3 +1,10 @@
+Ingredients:
 - 1 carrot
 - 2 cucumbers
 - 1/2 pineapple
+
+Instructions:
+- Peel the carrot and cucumbers
+- Mix them well
+- Add pieces of pineapple on top
+- Enjoy!
